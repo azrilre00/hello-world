@@ -1,5 +1,5 @@
 # hello-world
 Task 1 SCM
-My name is Mohd Azril Ahmad Tarmidzi
-I am a student From UniKL MIIT in Kuala Lumpur, Malaysia.
-Currently in my final year of Software Engineer.
+My name is Mohd Azril 
+I like foods. 
+Java and Python is my main programming language.
